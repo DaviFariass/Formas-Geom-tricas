@@ -18,17 +18,6 @@ Este projeto é uma aplicação web interativa projetada para facilitar o aprend
 
 ---
 
-## 📸 Demonstração Visual
-
-### Catálogo de Formas Disponíveis
-> *(Adicione aqui a imagem do carrossel com as formas geométricas)*
-<!-- Exemplo: ![Catálogo de Formas](link-da-imagem-1) -->
-
-### Interface de Cálculo Dinâmico
-> *(Adicione aqui a imagem do formulário verde de cálculo do trapezoide)*
-<!-- Exemplo: ![Formulário de Cálculo](link-da-imagem-2) -->
-
----
 
 ## ⚙️ Funcionalidades e Formas Suportadas
 
